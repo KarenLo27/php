@@ -1,0 +1,37 @@
+
+table{
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 2em;
+   
+   
+    text-align: center;
+    
+    font-size: 1.5em;
+   }
+.titulo{
+    font-size: 60px;
+    
+    text-align: center;
+   color:salmon;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+
+.columnas{
+    font-size: 30px;
+    font-weight: bold;
+}
+.simbolos{
+    width: 5%;
+    margin: 0 auto;
+}
+.enlace-menu{
+    text-decoration: none;
+    
+}
+
+
+h1{
+    text-align: center;
+}

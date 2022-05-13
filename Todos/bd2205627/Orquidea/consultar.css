@@ -1,0 +1,21 @@
+table{
+    width: 60%;
+    margin: 0 auto;
+    }
+.titulo{
+    font-size: 38px;
+    background: crimson;
+    text-align: center;
+   color: #F7F9F9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    }
+
+.columnas{
+    font-size: 25px;
+    font-weight: bold;
+}
+.simbolos{
+    width: 5%;
+    margin: 0 auto;
+}

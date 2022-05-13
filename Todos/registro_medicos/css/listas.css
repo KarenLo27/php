@@ -1,0 +1,23 @@
+ul{
+    font-size: 2em;
+    background-color: salmon;
+    text-align: right;
+   
+}
+li{
+    display: inline-block;
+    padding: 20px;
+    
+}
+a.enlace-menu{
+    text-decoration: none;
+    color: darkred;
+}
+a.enlace-menu:hover{
+    color: ghostwhite;
+    font-size: 1.05em;
+}
+*{
+    margin: 0;
+    padding: 0;
+}

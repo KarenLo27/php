@@ -1,0 +1,29 @@
+ul{
+    font-size: 30px;
+    background-color: orangered;
+    text-align: right;
+   
+}
+nav{
+    background-color: rgb(244, 63, 24   );
+}
+li{
+    display: inline-block;
+    padding: 20px;
+    
+}
+a.enlace-menu{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+  
+    
+}
+a.enlace-menu:hover{
+    color: blanchedalmond;
+   
+}
+*{
+    margin: 0;
+    padding: 0;
+}

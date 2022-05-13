@@ -1,0 +1,182 @@
+
+h1 { 
+    text-align: center;
+    font-family: 'Courgette', cursive; 
+    font-size: 4em;
+}
+.imagen-centrada{
+    width: 620px;
+    margin: 0 auto 0 auto;   
+}
+h2 {
+    color:aqua
+}
+
+.fuente-regular {
+    font-weight: 400;
+    
+}
+.fuente-bold {
+    font-weight: bold;
+    
+}
+.fuente-900 {
+    font-weight: 900;
+    
+}
+p{
+    text-align: center;
+}
+.fondo-rojo {
+    width: 300px;
+    height: 50px;
+    background-color: red;
+}
+.darcian {
+    color:darkcyan}
+
+.fondo-verde {
+    width: 300px;
+    height: 50px;
+    background-color: green;
+}
+.fondo-azul {
+    width: 300px;
+    height: 50px;
+    background-color: blue;
+
+    
+    }
+    .fondo-b-rgb {
+        width: 450px;
+        height: 30px;
+        background-color: rgb(4, 35, 48);
+    }
+    .fondo-g-rgb {
+        width: 450px;
+        height: 30px;
+        background-color: rgb(112, 97, 9);
+}
+.fondo-s-rgb {
+        width: 450px;
+        height: 30px;
+        background-color: rgb(80, 13, 6);
+    }
+   .fondo-sena-hx {
+    width: 450px;
+    height: 30px;
+    background-color: dimgrey; 
+    }
+.fondo-silver-hx {
+ width: 450px;
+    height: 30px;
+    background-color: firebrick;
+
+}
+.fondo-dym-hx {
+    width: 450px;
+       height: 30px;
+       background-color: black;
+    }
+    p.parrafo-enlace {
+        font-size: 40px;
+    }
+    /*Espaciado */
+
+.letra-largo{
+    letter-spacing: 3em;
+}
+.letra-corto{
+    letter-spacing: -.1em;
+    
+}
+.palabra-largo{
+    word-spacing: 2em;
+    
+}
+.palabra-corto{ 
+    word-spacing: -.3em;
+    
+}
+.linea-largo{
+line-height: 3em;
+
+}
+.linea-corto{
+    line-height: .6em;
+    
+}
+
+/*el uso de alineaciones, márgenes, bordes y espaciados en html*/
+
+.margin{
+    margin: 0;
+    font-family: 'Butterfly Kids', cursive;
+}
+.uno{
+    background-color: rgb(18, 172, 223);
+    margin-left: 40px;
+    margin-right: 8px;
+    display: inline-block;
+    border: 10px solid rgb(65, 46, 46);
+    color: rgb(97, 66, 19);
+    padding: 1.5em;
+    width: 150px;
+    font-size: 1.3em;
+    text-align: justify;
+}
+.dos{
+    background-color: rgb(83, 32, 177);
+    margin-left: 40px;
+    margin-right: 8px;
+    display: inline-block;
+    border: 10px dotted rgb(10, 10, 10);
+    color: blanchedalmond;
+    padding: 1.5em;
+    width: 150px;
+    font-size: 1.3em;
+    text-align: justify;
+}
+.tres{
+    background-color: rgb(243, 168, 7);
+    margin-left: 40px;
+    margin-right: 8px;
+    display: inline-block;
+    border: 10px dashed rgb(58, 2, 2);
+    color: rgb(212, 132, 12);
+    padding: 1.5em;
+    width: 150px;
+    font-size: 1.3em;
+    text-align: justify;
+}
+.cuatro{
+    background-color: rgb(136, 56, 156);
+    margin-left: 40px;
+    margin-right: 8px;
+    display: inline-block;
+    border: 10px double rgb(22, 188, 218);
+    color: rgb(15, 15, 15);
+    padding: 1.5em;
+    width: 150px;
+    font-size: 1.3em;
+    text-align: justify;
+}
+.cinco{
+    background-color: rgb(218, 113, 15);
+    margin-left: 40px;
+    margin-right: 8px;
+    display: inline-block;
+    border: 10px groove rgb(8, 196, 221);
+    color: rgb(60, 13, 216);
+    padding: 1.5em;
+    width: 150px;
+    font-size: 1.3em;
+    text-align: justify;
+}
+
+
+
+
+        
+
+  

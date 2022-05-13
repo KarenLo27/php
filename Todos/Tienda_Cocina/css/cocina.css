@@ -1,0 +1,78 @@
+.conten{
+
+border-radius: 15px;
+
+}
+.eliminarB{
+    background-color: crimson;
+    color: white;
+}
+.class-pasofinal{
+  
+    text-align: center;
+  
+    padding: 30px;
+    font-size: 2em;
+  
+    
+    
+}
+
+.contenedor1{
+    width: 100%;
+    background-color: green;
+   
+}
+.contenedor2{
+
+    width: 25%;
+    float: left;
+}
+.container{
+    color: black;
+    font-size: 15px;
+}
+.registros{
+    width: 60%;
+}
+.carro{
+    background-color: crimson;
+    color: white;
+    border: 2em;
+    font-size: 20px;
+}
+.botoncarro{
+    background-color: cornflowerblue;
+    border-radius: 3em;
+}
+.pie{
+    text-align: center;
+    
+}
+th, td {
+    width: 25%;
+   text-align: left;
+   vertical-align: top;
+  
+   font-size: 22px;
+   border: 1px solid #000;
+   border-collapse: collapse;
+   padding: 10px;
+ }
+ table{
+    
+        width: 100%;
+        border: 1px solid #999;
+        text-align: left;
+        border-collapse: collapse;
+        margin: 0 0 1em 0;
+        caption-side: top;
+     
+ }
+ .class-peso{
+     font-size: 40px;
+ }
+
+
+
+

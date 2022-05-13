@@ -1,0 +1,32 @@
+header{
+	background-color: #C70039;
+	height: 200px;
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-left: 470px;
+}
+body{
+	background-color: #f1b7d9;
+}
+
+section{
+	background-color: #D2D2D2;
+	width: 800px;
+	height: 500px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+div{
+	background-color: #9F9F9F;
+	width: 600px;
+	height: 350px;
+	margin: 0 auto;
+	padding: 10px;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 20px;
+}
+
+
+
+

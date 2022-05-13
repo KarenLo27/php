@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image:url(../img/cosmeticos.jpg) no-repeat ;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+}
+table{
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 2em;
+   
+   
+    text-align: center;
+    
+    font-size: 1.5em;
+   }
+.titulo{
+    font-size: 40px;
+    background: crimson;
+    text-align: center;
+   color: #F7F9F9;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+
+.columnas{
+    font-size: 30px;
+    font-weight: bold;
+}
+.simbolos{
+    width: 5%;
+    margin: 0 auto;
+}
+.enlace-menu{
+    text-decoration: none;
+    color: darkred;
+}
+
+
+h1{
+    text-align: center;
+}

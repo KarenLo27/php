@@ -1,0 +1,21 @@
+
+.cabecera{
+    margin-left: 1000px;
+    padding-top: 20px;
+}
+.notificacion{
+    background-color: crimson;
+    width: 20px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+}
+.tuno{
+    background-color: slategrey;
+    width: 30%;
+}
+h1{
+    text-align: center;
+}
